@@ -1,0 +1,13 @@
+.box{
+    width: 550px;
+    height: 550px;
+    border: 1px solid #FF0000;
+    background-color: #F9DFDF;
+    
+}
+h5{
+    font-family: 'Inter', sans-serif;
+    padding-left: 90px;
+    padding-top: 50px;
+    color: red;
+}
